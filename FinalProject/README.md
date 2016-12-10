@@ -1,8 +1,8 @@
-##Data Analysis Using Python - Video Games Sales Datasets Analysis
+#Data Analysis Using Python - Video Games Sales Datasets Analysis
 
 Orginal Datasets: named "vgsales.csv" saved under folder "Datasets"
 
-#Step1: Collecting Data
+##Step1: Collecting Data
 
 run command line: python collect_data.py
 
@@ -21,7 +21,7 @@ Datasets_Analysis_5.csv: [Year, NA_Sales, EU_Sales, JP_Sales, Other_Sales]
 
 ![alt tag](https://github.com/yd1992/Data_Analysis_Using_Python/blob/master/FinalProject/Result/Image_Analysis_1.png)
 
-#Step2: Data Analysis Task 1
+##Step2: Data Analysis Task 1
 
 run command line: python Data_Analysis_1.py
 
@@ -33,7 +33,7 @@ User can input Platform name into "Input1" box, and then click button "Get Info"
 Also, we will save all the Total Global Sales based on different platforms under the folder "Result", named file "Analysis1_Result.csv"
 Except that, we will visualize the result with a cylindra chart, saved under the folder "Result", named file "Image_Analysis_1.png"
 
-#Step3: Data Analysis Task 2
+##Step3: Data Analysis Task 2
 
 run command line: python Data_Analysis_2.py
 
@@ -45,7 +45,7 @@ User can input District name into "Input1" box, and then click button "Get Info"
 Also, we will save all the Total Global Sales based on different districts and different genres of video games under the folder "Result", named file "Analysis2_Result.csv"
 Except that, we will visualize the result with a chart, saved under the folder "Result", named file "Image_Analysis_2.png"
 
-#Step4: Data Analysis Task 3
+##Step4: Data Analysis Task 3
 
 run command line: python Data_Analysis_3.py
 
@@ -57,7 +57,7 @@ User can input Publisher name into "Input1" box, and then click button "Get Info
 Also, we will save all the Total Global Sales based on different publishers under the folder "Result", named file "Analysis3_Result.csv"
 Except that, we will visualize the result with a pie chart, saved under the folder "Result", named file "Image_Analysis_3.png"
 
-#Step5: Data Analysis Task 4
+##Step5: Data Analysis Task 4
 
 run command line: python Data_Analysis_4.py
 
@@ -69,7 +69,7 @@ User can input Publisher name into "Input1" box and Genre name into "Input2" box
 Also, we will save all the Total Global Sales based on different platforms and different genres under the folder "Result", named file "Analysis4_Result.csv"
 Except that, we will visualize the result with a chart, saved under the folder "Result", named file "Image_Analysis_4.png"
 
-#Step6: Data Analysis Task 4
+##Step6: Data Analysis Task 4
 
 run command line: python Data_Analysis_5.py
 
