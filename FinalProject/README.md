@@ -3,14 +3,14 @@ Data Analysis Using Python - Video Games Sales Datasets Analysis
 Orginal Datasets: named "vgsales.csv" saved under folder "Datasets"
 
 Step1: Collecting Data
-run command line: python collect_data.py
-You will get all of the specific data which are required for every data analysis task, and then save as csv file into fold Datasets
-Result files: 
-Datasets_Analysis_1.csv: [Name, Platform, Year, Global_Sales]
-Datasets_Analysis_2.csv: [Genre, NA_Sales, EU_Sales, JP_Sales, Other_Sales, Global_Sales]
-Datasets_Analysis_3.csv: [Year, Publisher, Global_Sales]
-Datasets_Analysis_4.csv: [Platform, Genre, Global_Sales]
-Datasets_Analysis_5.csv: [Year, NA_Sales, EU_Sales, JP_Sales, Other_Sales]
+#run command line: python collect_data.py
+#You will get all of the specific data which are required for every data analysis task, and then save as csv file into fold Datasets
+#Result files: 
+#Datasets_Analysis_1.csv: [Name, Platform, Year, Global_Sales]
+#Datasets_Analysis_2.csv: [Genre, NA_Sales, EU_Sales, JP_Sales, Other_Sales, Global_Sales]
+#Datasets_Analysis_3.csv: [Year, Publisher, Global_Sales]
+#Datasets_Analysis_4.csv: [Platform, Genre, Global_Sales]
+#Datasets_Analysis_5.csv: [Year, NA_Sales, EU_Sales, JP_Sales, Other_Sales]
 
 
 Step2: Data Analysis Task 1
