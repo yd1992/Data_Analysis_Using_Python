@@ -19,6 +19,7 @@ Datasets_Analysis_4.csv: [Platform, Genre, Global_Sales]
 
 Datasets_Analysis_5.csv: [Year, NA_Sales, EU_Sales, JP_Sales, Other_Sales]
 
+![alt tag](https://github.com/yd1992/Data_Analysis_Using_Python/blob/master/FinalProject/Result/Image_Analysis_1.png)
 
 #Step2: Data Analysis Task 1
 
