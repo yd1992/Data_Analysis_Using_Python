@@ -5,6 +5,7 @@
   With gradually popularity of video games within all over ther world for so many years, there are more and more video games genres has been developed by different publishers on different platforms. In this data analysis project, I collect the data of all video games sales data on different platforms of different publishers in different districts of the world within recent 30 years, then analyzing the analysis results, and then use those results to help customers to choose which genres of videos on which platforms produced by which publishers is the most fit for them, and also help publishers to determine what kind of genres of videos on which platforms can have the most brightful future to be purchased by customers in the future.
   
   The Orginal Datasets: named "vgsales.csv" saved under folder "Datasets"
+  
   ![alt tag]
 
 ##Step1: Collecting the Data
